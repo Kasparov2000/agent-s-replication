@@ -19,7 +19,7 @@ The gap is attributable entirely to AT-SPI accessibility bus unavailability in O
 The evaluation dataset is the **OSWorld benchmark**:
 
 - **Paper:** Xie et al., "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments", arXiv:2404.07972
-- **HuggingFace:** https://huggingface.co/datasets/xlangai/OSWorld
+- **HuggingFace:** https://huggingface.co/datasets/xlangai/ubuntu_osworld
 - **GitHub:** https://github.com/xlang-ai/OSWorld
 - **Evaluation subset used:** `evaluation_examples/test_small.json` (65 tasks across Chrome, LibreOffice, VS Code, GIMP, VLC, Thunderbird, multi-app)
 
@@ -157,6 +157,6 @@ The OS/Terminal category achieves **33.33%**, matching the baseline exactly, con
 ## References
 
 - Agashe et al., "Agent S: An Open Agentic Framework That Uses Computers Like a Human", ICLR 2025. https://arxiv.org/abs/2410.08164
-- Xie et al., "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments", arXiv:2404.07972. https://huggingface.co/datasets/xlangai/OSWorld
+- Xie et al., "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments", arXiv:2404.07972. https://huggingface.co/datasets/xlangai/ubuntu_osworld
 - Yang et al., "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering", arXiv:2405.15793
 - Wei et al., "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models", NeurIPS 2022
