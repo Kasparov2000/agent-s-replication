@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains Team 4's full replication of **Agent S: An Open Agentic Framework That Uses Computers Like a Human** (Agashe et al., ICLR 2025). We re-implement the core Agent S architecture, evaluate it on the OSWorld benchmark, and propose four novel improvements.
+This repository contains full replication of **Agent S: An Open Agentic Framework That Uses Computers Like a Human** (Agashe et al., ICLR 2025). We re-implement the core Agent S architecture, evaluate it on the OSWorld benchmark, and propose four novel improvements.
 
 **Final result:** 5.13% on the 65-task OSWorld subset (vs. 10.0% baseline, 26.15% paper).  
 The gap is attributable entirely to AT-SPI accessibility bus unavailability in OSWorld Docker containers, not an architectural limitation.
