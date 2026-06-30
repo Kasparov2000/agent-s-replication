@@ -1,5 +1,4 @@
-# Agent S Replication Study — Team 4
-## CS-5388 Neural Networks | Texas Tech University | Summer 2026
+# Agent S Replication Study
 
 **Authors:** Reese Farrell, Tafara Mhangami
 
